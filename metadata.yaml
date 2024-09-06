@@ -1,0 +1,33 @@
+_repo: Once-a-first-wife_74294
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arkawy, Norman
+    alias: Arkawy, Norman M.
+    birthdate: 1927
+    deathdate: 2004
+    gutenberg_agent_id: '50122'
+    url: http://www.gutenberg.org/2009/agents/50122
+description: ''
+gutenberg_issued: '2024-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74294'
+language: en
+pgterms:marc905: 20240316165333arkawy
+pgterms:marc906: '1954'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bKing-Size Publications, Inc., $c1954.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Trials (Divorce) -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Once a first wife
+url: http://www.gutenberg.org/ebooks/74294
